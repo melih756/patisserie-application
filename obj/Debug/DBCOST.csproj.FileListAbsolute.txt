@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\DBCOST\DBCOST\bin\Debug\DBCOST.exe.config
+C:\Users\ACER\Desktop\DBCOST\DBCOST\bin\Debug\DBCOST.exe
+C:\Users\ACER\Desktop\DBCOST\DBCOST\bin\Debug\DBCOST.pdb
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.Form1.resources
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.Properties.Resources.resources
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.exe
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.pdb
+C:\Users\ACER\Desktop\DBCOST\DBCOST\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Desktop\DBCOST\DBCOST\bin\Debug\itextsharp.dll
+C:\Users\ACER\Desktop\DBCOST\DBCOST\bin\Debug\itextsharp.xml
+C:\Users\ACER\Desktop\DBCOST\DBCOST\obj\Debug\DBCOST.csproj.CopyComplete
